@@ -1,0 +1,987 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="91e5ee95-4903-437d-9978-ca5246240634" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ThreadsExampleJava/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadsExampleJava/ThreadsExampleJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/AsyncTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/ClassSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/GenericClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/MySOUT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/SOLID/Cleanable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/SOLID/Cookable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/SOLID/Woker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/SOLID/Workable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/SOLID/Worker2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/SomeInterClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/TestClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11. 3ЭФ.р.о.pub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../180604_SECL_TAS_recon (Autosaved) (Autosaved).xlsb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2_5206525257912943126.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2_5341817384866939424.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3c. The_Law_of_Obligations_RK.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6859d9a03e5775171939f95de8326d8c-2e9e9f491475ecc0ef88a735d963694519274b20.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Akmal/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AkmalFX/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AkmalFX/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AkmalFX/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AkmalFX/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AkmalFX/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AkmalFX/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AkmalFX/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AkmalFX/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AkmalFX/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AkmalFX/AkmalFX.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AkmalFX/out/production/AkmalFX/sample/Controller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AkmalFX/out/production/AkmalFX/sample/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AkmalFX/out/production/AkmalFX/sample/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AkmalFX/out/production/AkmalFX/sample/sample.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AkmalFX/src/sample/Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AkmalFX/src/sample/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AkmalFX/src/sample/sample.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android dev.odt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BitcoinAPI/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BitcoinAPI/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BitcoinAPI/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BitcoinAPI/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BitcoinAPI/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BitcoinAPI/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BitcoinAPI/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BitcoinAPI/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BitcoinAPI/app/src/androidTest/java/com/example/bitcoinapi/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BitcoinAPI/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BitcoinAPI/app/src/main/java/com/example/bitcoinapi/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BitcoinAPI/app/src/main/java/com/example/bitcoinapi/data/CurrencyData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BitcoinAPI/app/src/main/java/com/example/bitcoinapi/data/CurrencyInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BitcoinAPI/app/src/main/java/com/example/bitcoinapi/main_screen/BitcoinContract.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BitcoinAPI/app/src/main/java/com/example/bitcoinapi/main_screen/BitcoinExchangeRateFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BitcoinAPI/app/src/main/java/com/example/bitcoinapi/main_screen/BitcoinModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BitcoinAPI/app/src/main/java/com/example/bitcoinapi/main_screen/CurrencyAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BitcoinAPI/app/src/main/java/com/example/bitcoinapi/main_screen/MainPresenter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BitcoinAPI/app/src/main/java/com/example/bitcoinapi/service/BitcoinAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BitcoinAPI/app/src/main/java/com/example/bitcoinapi/service/DataForChartAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BitcoinAPI/app/src/main/java/com/example/bitcoinapi/service/NetworkService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BitcoinAPI/app/src/main/java/com/example/bitcoinapi/service/ResponseBPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BitcoinAPI/app/src/main/java/com/example/bitcoinapi/service/ResponseEURO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BitcoinAPI/app/src/main/java/com/example/bitcoinapi/service/ResponseGetable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BitcoinAPI/app/src/main/java/com/example/bitcoinapi/service/ResponseKZT.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BitcoinAPI/app/src/main/java/com/example/bitcoinapi/service/ResponseUSD.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BitcoinAPI/app/src/main/java/com/example/bitcoinapi/service/charts/JsonUtils.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BitcoinAPI/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BitcoinAPI/app/src/main/res/drawable/background_exchange_item_header.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BitcoinAPI/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BitcoinAPI/app/src/main/res/drawable/ic_home_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BitcoinAPI/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BitcoinAPI/app/src/main/res/drawable/ic_notifications_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BitcoinAPI/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BitcoinAPI/app/src/main/res/layout/currency_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BitcoinAPI/app/src/main/res/layout/fragment_rate_exchange.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BitcoinAPI/app/src/main/res/menu/navigation.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BitcoinAPI/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BitcoinAPI/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BitcoinAPI/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BitcoinAPI/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BitcoinAPI/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BitcoinAPI/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BitcoinAPI/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BitcoinAPI/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BitcoinAPI/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BitcoinAPI/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BitcoinAPI/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BitcoinAPI/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BitcoinAPI/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BitcoinAPI/app/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BitcoinAPI/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BitcoinAPI/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BitcoinAPI/app/src/test/java/com/example/bitcoinapi/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BitcoinAPI/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BitcoinAPI/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BitcoinAPI/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BitcoinAPI/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BitcoinAPI/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BitcoinAPI/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BitcoinAPI/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Button" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CVWord2.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Check.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChocoMVP/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChocoMVP/.idea/assetWizardSettings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChocoMVP/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChocoMVP/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChocoMVP/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChocoMVP/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChocoMVP/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChocoMVP/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChocoMVP/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChocoMVP/app/src/androidTest/java/com/example/arslan/chocomvp/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChocoMVP/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChocoMVP/app/src/main/java/com/example/arslan/chocomvp/all_deals/AllDealFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChocoMVP/app/src/main/java/com/example/arslan/chocomvp/all_deals/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChocoMVP/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChocoMVP/app/src/main/res/drawable/ic_account_circle_white_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChocoMVP/app/src/main/res/drawable/ic_dashboard_white_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChocoMVP/app/src/main/res/drawable/ic_favorite_white_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChocoMVP/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChocoMVP/app/src/main/res/drawable/ic_shopping_cart_white_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChocoMVP/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChocoMVP/app/src/main/res/layout/fragment_deal_all.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChocoMVP/app/src/main/res/menu/navigation.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChocoMVP/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChocoMVP/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChocoMVP/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChocoMVP/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChocoMVP/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChocoMVP/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChocoMVP/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChocoMVP/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChocoMVP/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChocoMVP/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChocoMVP/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChocoMVP/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChocoMVP/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChocoMVP/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChocoMVP/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChocoMVP/app/src/test/java/com/example/arslan/chocomvp/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChocoMVP/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChocoMVP/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChocoMVP/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChocoMVP/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChocoMVP/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChocoMVP/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChocoMVP/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChocoMVP2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Classification.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EnumExample/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EnumExample/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EnumExample/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EnumExample/EnumExample.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EnumExample/out/production/EnumExample/Example.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EnumExample/out/production/EnumExample/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EnumExample/src/Example.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EnumExample/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exmaple/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exmaple/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exmaple/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exmaple/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exmaple/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exmaple/Exmaple.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exmaple/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FM++HW3.xlsm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Keddit/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Keddit/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KolesaAcademy.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinTest/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinTest/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinTest/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinTest/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinTest/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinTest/KotlinTest.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinTest/out/production/KotlinTest/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinTest/out/production/KotlinTest/CatA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinTest/out/production/KotlinTest/Human.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinTest/out/production/KotlinTest/KotlinTestClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinTest/out/production/KotlinTest/KotlinTestFileKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinTest/out/production/KotlinTest/META-INF/KotlinTest.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinTest/out/production/KotlinTest/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinTest/out/production/KotlinTest/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinTest/src/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinTest/src/CatA.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinTest/src/Circle.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinTest/src/Human.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinTest/src/KotlinTestClass.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinTest/src/KotlinTestFile.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinTest/src/Main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinTest/src/Shape.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinTest/src/deliveringTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LessnProject" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoaderWeather.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoaderWeather/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoaderWeather/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoaderWeather/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoaderWeather/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoaderWeather/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoaderWeather/app/src/main/java/ru/gdgkazan/simpleweather/model/City.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoaderWeather/app/src/main/java/ru/gdgkazan/simpleweather/model/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoaderWeather/app/src/main/java/ru/gdgkazan/simpleweather/model/Weather.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoaderWeather/app/src/main/java/ru/gdgkazan/simpleweather/model/Wind.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoaderWeather/app/src/main/java/ru/gdgkazan/simpleweather/network/ApiFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoaderWeather/app/src/main/java/ru/gdgkazan/simpleweather/network/ApiKeyInterceptor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoaderWeather/app/src/main/java/ru/gdgkazan/simpleweather/network/WeatherService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoaderWeather/app/src/main/java/ru/gdgkazan/simpleweather/screen/general/LoadingDialog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoaderWeather/app/src/main/java/ru/gdgkazan/simpleweather/screen/general/LoadingView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoaderWeather/app/src/main/java/ru/gdgkazan/simpleweather/screen/general/SimpleDividerItemDecoration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoaderWeather/app/src/main/java/ru/gdgkazan/simpleweather/screen/weather/RetrofitWeatherLoader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoaderWeather/app/src/main/java/ru/gdgkazan/simpleweather/screen/weather/WeatherActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoaderWeather/app/src/main/java/ru/gdgkazan/simpleweather/screen/weather/WeatherLoader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoaderWeather/app/src/main/java/ru/gdgkazan/simpleweather/screen/weatherlist/CitiesAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoaderWeather/app/src/main/java/ru/gdgkazan/simpleweather/screen/weatherlist/CityHolder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoaderWeather/app/src/main/java/ru/gdgkazan/simpleweather/screen/weatherlist/WeatherListActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoaderWeather/app/src/main/res/drawable-hdpi/humidity.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoaderWeather/app/src/main/res/drawable-hdpi/pressure.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoaderWeather/app/src/main/res/drawable-hdpi/temperature.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoaderWeather/app/src/main/res/drawable-hdpi/wind_speed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoaderWeather/app/src/main/res/drawable-mdpi/humidity.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoaderWeather/app/src/main/res/drawable-mdpi/pressure.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoaderWeather/app/src/main/res/drawable-mdpi/temperature.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoaderWeather/app/src/main/res/drawable-mdpi/wind_speed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoaderWeather/app/src/main/res/drawable-xhdpi/humidity.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoaderWeather/app/src/main/res/drawable-xhdpi/pressure.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoaderWeather/app/src/main/res/drawable-xhdpi/temperature.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoaderWeather/app/src/main/res/drawable-xhdpi/wind_speed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoaderWeather/app/src/main/res/drawable-xxhdpi/humidity.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoaderWeather/app/src/main/res/drawable-xxhdpi/pressure.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoaderWeather/app/src/main/res/drawable-xxhdpi/temperature.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoaderWeather/app/src/main/res/drawable-xxhdpi/wind_speed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoaderWeather/app/src/main/res/drawable/divider.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoaderWeather/app/src/main/res/layout-land/weather_card.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoaderWeather/app/src/main/res/layout/activity_weather.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoaderWeather/app/src/main/res/layout/activity_weather_list.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoaderWeather/app/src/main/res/layout/dialog_loading.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoaderWeather/app/src/main/res/layout/empty.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoaderWeather/app/src/main/res/layout/item_city.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoaderWeather/app/src/main/res/layout/weather_card.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoaderWeather/app/src/main/res/mipmap-hdpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoaderWeather/app/src/main/res/mipmap-mdpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoaderWeather/app/src/main/res/mipmap-xhdpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoaderWeather/app/src/main/res/mipmap-xxhdpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoaderWeather/app/src/main/res/mipmap-xxxhdpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoaderWeather/app/src/main/res/values-land/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoaderWeather/app/src/main/res/values/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoaderWeather/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoaderWeather/app/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoaderWeather/app/src/main/res/values/ids.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoaderWeather/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoaderWeather/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoaderWeather/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoaderWeather/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoaderWeather/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoaderWeather/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoaderWeather/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoaderWeather/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoaderWeather/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoaderWeather/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoaderWeather/versions.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVPDagger2RetroiftRxJava.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVPDagger2RetroiftRxJava/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVPDagger2RetroiftRxJava/.idea/caches/build_file_checksums.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVPDagger2RetroiftRxJava/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVPDagger2RetroiftRxJava/.idea/dictionaries/anupamchugh.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVPDagger2RetroiftRxJava/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVPDagger2RetroiftRxJava/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVPDagger2RetroiftRxJava/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVPDagger2RetroiftRxJava/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVPDagger2RetroiftRxJava/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVPDagger2RetroiftRxJava/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVPDagger2RetroiftRxJava/app/src/androidTest/java/com/journaldev/mvpdagger2retroiftrxjava/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVPDagger2RetroiftRxJava/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVPDagger2RetroiftRxJava/app/src/main/java/com/journaldev/mvpdagger2retroiftrxjava/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVPDagger2RetroiftRxJava/app/src/main/java/com/journaldev/mvpdagger2retroiftrxjava/MyApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVPDagger2RetroiftRxJava/app/src/main/java/com/journaldev/mvpdagger2retroiftrxjava/RecyclerViewAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVPDagger2RetroiftRxJava/app/src/main/java/com/journaldev/mvpdagger2retroiftrxjava/di/component/ApplicationComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVPDagger2RetroiftRxJava/app/src/main/java/com/journaldev/mvpdagger2retroiftrxjava/di/component/MainActivityComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVPDagger2RetroiftRxJava/app/src/main/java/com/journaldev/mvpdagger2retroiftrxjava/di/module/AdapterModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVPDagger2RetroiftRxJava/app/src/main/java/com/journaldev/mvpdagger2retroiftrxjava/di/module/ContextModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVPDagger2RetroiftRxJava/app/src/main/java/com/journaldev/mvpdagger2retroiftrxjava/di/module/MainActivityContextModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVPDagger2RetroiftRxJava/app/src/main/java/com/journaldev/mvpdagger2retroiftrxjava/di/module/MainActivityMvpModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVPDagger2RetroiftRxJava/app/src/main/java/com/journaldev/mvpdagger2retroiftrxjava/di/module/RetrofitModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVPDagger2RetroiftRxJava/app/src/main/java/com/journaldev/mvpdagger2retroiftrxjava/di/qualifier/ActivityContext.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVPDagger2RetroiftRxJava/app/src/main/java/com/journaldev/mvpdagger2retroiftrxjava/di/qualifier/ApplicationContext.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVPDagger2RetroiftRxJava/app/src/main/java/com/journaldev/mvpdagger2retroiftrxjava/di/scopes/ActivityScope.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVPDagger2RetroiftRxJava/app/src/main/java/com/journaldev/mvpdagger2retroiftrxjava/di/scopes/ApplicationScope.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVPDagger2RetroiftRxJava/app/src/main/java/com/journaldev/mvpdagger2retroiftrxjava/mvp/MainActivityContract.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVPDagger2RetroiftRxJava/app/src/main/java/com/journaldev/mvpdagger2retroiftrxjava/mvp/PresenterImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVPDagger2RetroiftRxJava/app/src/main/java/com/journaldev/mvpdagger2retroiftrxjava/pojo/CryptoData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVPDagger2RetroiftRxJava/app/src/main/java/com/journaldev/mvpdagger2retroiftrxjava/retrofit/APIInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVPDagger2RetroiftRxJava/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVPDagger2RetroiftRxJava/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVPDagger2RetroiftRxJava/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVPDagger2RetroiftRxJava/app/src/main/res/layout/recycler_view_list_row.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVPDagger2RetroiftRxJava/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVPDagger2RetroiftRxJava/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVPDagger2RetroiftRxJava/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVPDagger2RetroiftRxJava/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVPDagger2RetroiftRxJava/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVPDagger2RetroiftRxJava/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVPDagger2RetroiftRxJava/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVPDagger2RetroiftRxJava/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVPDagger2RetroiftRxJava/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVPDagger2RetroiftRxJava/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVPDagger2RetroiftRxJava/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVPDagger2RetroiftRxJava/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVPDagger2RetroiftRxJava/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVPDagger2RetroiftRxJava/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVPDagger2RetroiftRxJava/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVPDagger2RetroiftRxJava/app/src/test/java/com/journaldev/mvpdagger2retroiftrxjava/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVPDagger2RetroiftRxJava/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVPDagger2RetroiftRxJava/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVPDagger2RetroiftRxJava/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVPDagger2RetroiftRxJava/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVPDagger2RetroiftRxJava/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVPDagger2RetroiftRxJava/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVPDagger2RetroiftRxJava/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MainActivity (1).java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/androidTest/java/com/example/myapplication/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/java/com/example/myapplication/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/drawable/foreground_notification.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/drawable/icon_close.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/drawable/image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/drawable/image2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/drawable/notification_container.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/layout/content_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/layout/in_app_notification.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/menu/menu_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/values/colors2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/values/colors_for_fonts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/values/dimens4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/values/dimens_for_fonts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/values/styles_for_font.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/test/java/com/example/myapplication/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notes3.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OSMS PUKPUK.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Postgres-2.2-11.dmg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RetrofitTest/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RetrofitTest/.idea/caches/gradle_models.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RetrofitTest/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RetrofitTest/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RetrofitTest/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RetrofitTest/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RetrofitTest/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RetrofitTest/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RetrofitTest/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RetrofitTest/app/src/androidTest/java/com/example/arslan/retrofittest/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RetrofitTest/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RetrofitTest/app/src/main/java/com/example/arslan/retrofittest/JSONChocoAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RetrofitTest/app/src/main/java/com/example/arslan/retrofittest/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RetrofitTest/app/src/main/java/com/example/arslan/retrofittest/NetworkService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RetrofitTest/app/src/main/java/com/example/arslan/retrofittest/data/Deal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RetrofitTest/app/src/main/java/com/example/arslan/retrofittest/data/JsonResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RetrofitTest/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RetrofitTest/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RetrofitTest/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RetrofitTest/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RetrofitTest/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RetrofitTest/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RetrofitTest/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RetrofitTest/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RetrofitTest/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RetrofitTest/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RetrofitTest/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RetrofitTest/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RetrofitTest/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RetrofitTest/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RetrofitTest/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RetrofitTest/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RetrofitTest/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RetrofitTest/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RetrofitTest/app/src/test/java/com/example/arslan/retrofittest/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RetrofitTest/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RetrofitTest/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RetrofitTest/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RetrofitTest/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RetrofitTest/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RetrofitTest/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RetrofitTest/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SC 2016 (1).xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SC 2016 (2).xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SC 2016.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sadyrbekov_Alimkhan_Kanatovich (1).docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sadyrbekov_Alimkhan_Kanatovich.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Skype-8.34.0.78.dmg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TelegramBot/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrafficLight/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrafficLight/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrafficLight/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrafficLight/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrafficLight/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrafficLight/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrafficLight/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrafficLight/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrafficLight/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrafficLight/TrafficLight.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrafficLight/out/production/TrafficLight/sample/Controller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrafficLight/out/production/TrafficLight/sample/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrafficLight/out/production/TrafficLight/sample/sample.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrafficLight/src/sample/Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrafficLight/src/sample/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrafficLight/src/sample/sample.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UIKitSample/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../UIKitSample/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UIKitSample/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UIKitSample/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UIKitSample/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UIKitSample/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UIKitSample/app/src/main/java/com/example/uikitsample/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../UIKitSample/app/src/main/java/com/example/uikitsample/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UIKitSample/uikit/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../UIKitSample/uikit/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UIKitSample/uikit/src/main/java/com/kotlin/dialog/advanced_dialog/ChocoAdvancedDialog.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../UIKitSample/uikit/src/main/java/com/kotlin/dialog/advanced_dialog/ChocoAdvancedDialog.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UIKitSample/uikit/src/main/java/com/kotlin/in_app_notification/InAppNotification.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UIKitSample/uikit/src/main/res/layout/in_app_notification.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UIKitSample/uikit/src/main/res/layout/in_app_notification.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ViewExtending/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ViewExtending/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ViewExtending/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ViewExtending/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ViewExtending/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ViewExtending/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ViewExtending/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ViewExtending/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ViewExtending/app/src/androidTest/java/com/example/viewextending/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ViewExtending/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ViewExtending/app/src/main/java/com/example/ChocoInAppNotification.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ViewExtending/app/src/main/java/com/example/notifications/InAppNotifications.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ViewExtending/app/src/main/java/com/example/valueselector/ValueSelector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ViewExtending/app/src/main/java/com/example/viewextending/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ViewExtending/app/src/main/java/com/example/viewextending/MyView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ViewExtending/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ViewExtending/app/src/main/res/drawable/ic_clear_gray_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ViewExtending/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ViewExtending/app/src/main/res/drawable/image2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ViewExtending/app/src/main/res/drawable/valueselect_minus_state.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ViewExtending/app/src/main/res/drawable/valueselect_plus_state.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ViewExtending/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ViewExtending/app/src/main/res/layout/in_app_notification.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ViewExtending/app/src/main/res/layout/value_selector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ViewExtending/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ViewExtending/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ViewExtending/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ViewExtending/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ViewExtending/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ViewExtending/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ViewExtending/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ViewExtending/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ViewExtending/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ViewExtending/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ViewExtending/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ViewExtending/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ViewExtending/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ViewExtending/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ViewExtending/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ViewExtending/app/src/test/java/com/example/viewextending/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ViewExtending/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ViewExtending/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ViewExtending/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ViewExtending/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ViewExtending/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ViewExtending/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ViewExtending/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ViewFlipper.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeatherApp.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../YTbot 2.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[rutracker.org].t5075118.torrent" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../base_pages_login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../files-WhatsApp.dmg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imgonline-com-ua-Resize-dsEUl1c5WT.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../index_body.tpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-json.jar.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../macsfancontrol.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../osnovy_organizacii_setey_cisco_voprosy_s_otvetami.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../picasso-2.71828.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../poi-src-4.0.1-20181203.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../postgresql-42.2.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shadow_16739.9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Каспи.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ким Алёна.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Пеня ОО.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Политология.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Приглашение на стажировку_Арсланбек.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../РезюмеМухит.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../УМКД   Академическое письмо 2018.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../с изм Практика 3 курс 2018-19 Представ на распредел по базам практик_.xlsx" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1628243596">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="3216" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="3216" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="11" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="403">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+              <folding>
+                <element signature="e#563#564#0" expanded="true" />
+                <element signature="e#590#591#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/SOLID/Worker2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+              <folding>
+                <element signature="e#91#92#0" expanded="true" />
+                <element signature="e#127#128#0" expanded="true" />
+                <element signature="e#261#262#0" expanded="true" />
+                <element signature="e#297#298#0" expanded="true" />
+                <element signature="e#355#356#0" expanded="true" />
+                <element signature="e#391#392#0" expanded="true" />
+                <element signature="e#443#444#0" expanded="true" />
+                <element signature="e#479#480#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/MySOUT.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/ClassSingleton.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="45" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="45" />
+              <folding>
+                <element signature="e#182#183#0" expanded="true" />
+                <element signature="e#209#210#0" expanded="true" />
+                <element signature="e#249#250#0" expanded="true" />
+                <element signature="e#281#282#0" expanded="true" />
+                <element signature="e#267#268#0" expanded="true" />
+                <element signature="e#292#293#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/SOLID/Woker.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+              <folding>
+                <element signature="e#69#70#0" expanded="true" />
+                <element signature="e#86#87#0" expanded="true" />
+                <element signature="e#227#228#0" expanded="true" />
+                <element signature="e#276#277#0" expanded="true" />
+                <element signature="e#237#238#0" expanded="true" />
+                <element signature="e#273#274#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/SOLID/Cookable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/SOLID/Cleanable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/SOLID/Workable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/AsyncTask.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="58" selection-start-line="4" selection-start-column="58" selection-end-line="4" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/GenericClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+              <folding>
+                <element signature="e#117#118#0" expanded="true" />
+                <element signature="e#151#152#0" expanded="true" />
+                <element signature="e#77#78#0" expanded="true" />
+                <element signature="e#100#101#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Singleton" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/company/SomeInterClass.java" />
+        <option value="$PROJECT_DIR$/src/com/company/GenericClass.java" />
+        <option value="$PROJECT_DIR$/src/com/company/AsyncTask.java" />
+        <option value="$PROJECT_DIR$/src/com/company/MySOUT.java" />
+        <option value="$PROJECT_DIR$/src/com/company/TestClass.java" />
+        <option value="$PROJECT_DIR$/src/com/company/ClassSingleton.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Worker2.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Woker.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Cookable.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Cleanable.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Workable.java" />
+        <option value="$PROJECT_DIR$/src/com/company/SOLID/Worker2.java" />
+        <option value="$PROJECT_DIR$/src/com/company/SOLID/Woker.java" />
+        <option value="$PROJECT_DIR$/src/com/company/SOLID/Cookable.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1393" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="untitled1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="SOLID" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561743414906" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="untitled1" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91e5ee95-4903-437d-9978-ca5246240634" name="Default Changelist" comment="" />
+      <created>1561556505261</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561556505261</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1393" height="900" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2568468" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32920793" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32920793" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/company/SomeInterClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/TestClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#147#148#0" expanded="true" />
+            <element signature="e#185#186#0" expanded="true" />
+            <element signature="e#220#221#0" expanded="true" />
+            <element signature="e#258#259#0" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#352#353#0" expanded="true" />
+            <element signature="e#381#382#0" expanded="true" />
+            <element signature="e#409#410#0" expanded="true" />
+            <element signature="e#433#434#0" expanded="true" />
+            <element signature="e#471#472#0" expanded="true" />
+            <element signature="e#501#502#0" expanded="true" />
+            <element signature="e#532#533#0" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/AsyncTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="58" selection-start-line="4" selection-start-column="58" selection-end-line="4" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/GenericClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <folding>
+            <element signature="e#117#118#0" expanded="true" />
+            <element signature="e#151#152#0" expanded="true" />
+            <element signature="e#77#78#0" expanded="true" />
+            <element signature="e#100#101#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/MySOUT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/ClassSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="45" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="45" />
+          <folding>
+            <element signature="e#182#183#0" expanded="true" />
+            <element signature="e#209#210#0" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
+            <element signature="e#281#282#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+            <element signature="e#292#293#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="e#563#564#0" expanded="true" />
+            <element signature="e#590#591#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/SOLID/Cleanable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/SOLID/Workable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/SOLID/Worker2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="e#91#92#0" expanded="true" />
+            <element signature="e#127#128#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#355#356#0" expanded="true" />
+            <element signature="e#391#392#0" expanded="true" />
+            <element signature="e#443#444#0" expanded="true" />
+            <element signature="e#479#480#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/SOLID/Woker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="e#69#70#0" expanded="true" />
+            <element signature="e#86#87#0" expanded="true" />
+            <element signature="e#227#228#0" expanded="true" />
+            <element signature="e#276#277#0" expanded="true" />
+            <element signature="e#237#238#0" expanded="true" />
+            <element signature="e#273#274#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/SOLID/Cookable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
